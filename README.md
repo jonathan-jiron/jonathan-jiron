@@ -1,7 +1,4 @@
-// ...existing code...
-<p align="center">
-  <img src="assets/book_computer_interactive.svg" alt="Ilustración interactiva: libro y computadora" width="420"/>
-</p>
+
 
 <h1 align="center">Hola! 👋 Soy Jonathan Gabriel Jirón Gordillo</h1>
 <h3 align="center">Estudiante de Ingeniería de Software | Desarrollo Web & Backend | Apasionado por buenas prácticas</h3>
@@ -84,5 +81,3 @@ Revisar README en cada carpeta para detalles específicos.
 - GitHub: https://github.com/jonathan-jiron
 
 ---
-<!-- Fin del README -->
-// ...existing code...
